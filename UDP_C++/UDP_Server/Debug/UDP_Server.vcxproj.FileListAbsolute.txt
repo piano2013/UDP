@@ -1,0 +1,4 @@
+E:\Projects\Projects\UDP_C++\UDP_Server\Debug\UDP_Server.exe
+E:\Projects\Projects\UDP_C++\UDP_Server\Debug\UDP_Server.pdb
+E:\Projects\Projects\UDP_C++_modify\UDP_Server\Debug\UDP_Server.exe
+E:\Projects\Projects\UDP_C++_modify\UDP_Server\Debug\UDP_Server.pdb

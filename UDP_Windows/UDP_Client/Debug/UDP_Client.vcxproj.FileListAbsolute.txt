@@ -1,0 +1,2 @@
+E:\Projects\Projects\UDP\UDP_Client\Debug\UDP_Client.exe
+E:\Projects\Projects\UDP\UDP_Client\Debug\UDP_Client.pdb

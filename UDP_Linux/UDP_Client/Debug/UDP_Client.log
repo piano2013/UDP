@@ -1,0 +1,3 @@
+﻿  UDPclient.c
+E:\Projects\Projects\UDP_Notwork\UDP_Client\UDPclient.c(33,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  UDP_Client.vcxproj -> E:\Projects\Projects\UDP_Notwork\UDP_Client\Debug\UDP_Client.exe

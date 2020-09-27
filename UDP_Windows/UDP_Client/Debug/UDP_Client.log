@@ -1,0 +1,5 @@
+﻿  udpSend.c
+E:\Projects\Projects\UDP\UDP_Client\udpSend.c(20,17): warning C4098: “udpSend”:“void”函数返回值
+E:\Projects\Projects\UDP\UDP_Client\udpSend.c(28,17): warning C4098: “udpSend”:“void”函数返回值
+E:\Projects\Projects\UDP\UDP_Client\udpSend.c(37,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  UDP_Client.vcxproj -> E:\Projects\Projects\UDP\UDP_Client\Debug\UDP_Client.exe

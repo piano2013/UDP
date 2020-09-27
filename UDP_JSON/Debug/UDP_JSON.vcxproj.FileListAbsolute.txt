@@ -1,0 +1,2 @@
+E:\Projects\Projects\UDP_Test\UDP_JSON\Debug\UDP_JSON.exe
+E:\Projects\Projects\UDP_Test\UDP_JSON\Debug\UDP_JSON.pdb

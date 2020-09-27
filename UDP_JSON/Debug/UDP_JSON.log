@@ -1,0 +1,21 @@
+﻿  cJSON.c
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(156,12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(162,12): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(170,56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(171,48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(172,20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(265,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(276,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(302,14): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(381,48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(382,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(383,48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(450,12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_JSON\cJSON.c(648,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+E:\Projects\Projects\UDP_Test\UDP_JSON\main.c(82,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  operate_json.c
+E:\Projects\Projects\UDP_Test\UDP_JSON\operate_json.c(17,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UDPserver.c
+  正在生成代码...
+  UDP_JSON.vcxproj -> E:\Projects\Projects\UDP_Test\UDP_JSON\Debug\UDP_JSON.exe

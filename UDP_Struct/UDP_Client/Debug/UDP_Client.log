@@ -1,0 +1,6 @@
+﻿  UDPclient.c
+E:\Projects\Projects\UDP_Test\UDP_Struct\UDP_Client\UDPclient.c(37,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Projects\Projects\UDP_Test\UDP_Struct\UDP_Client\UDPclient.c(53,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_Struct\UDP_Client\UDPclient.c(62,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\Projects\UDP_Test\UDP_Struct\UDP_Client\UDPclient.c(93,19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UDP_Client.vcxproj -> E:\Projects\Projects\UDP_Test\UDP_Struct\UDP_Client\Debug\UDP_Client.exe
