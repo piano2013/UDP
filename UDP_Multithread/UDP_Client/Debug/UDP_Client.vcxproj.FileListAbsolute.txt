@@ -1,0 +1,4 @@
+E:\Projects\Projects\UDP_C++\UDP_Client\Debug\UDP_Client.exe
+E:\Projects\Projects\UDP_C++\UDP_Client\Debug\UDP_Client.pdb
+E:\Projects\Projects\UDP_C++_modify\UDP_Client\Debug\UDP_Client.exe
+E:\Projects\Projects\UDP_C++_modify\UDP_Client\Debug\UDP_Client.pdb

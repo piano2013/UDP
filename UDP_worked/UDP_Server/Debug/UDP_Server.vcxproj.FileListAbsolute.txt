@@ -1,0 +1,4 @@
+C:\Users\magic\Desktop\Projects\C\UDP\UDP_Server\UDP_Server\Debug\UDP_Server.exe
+C:\Users\magic\Desktop\Projects\C\UDP\UDP_Server\UDP_Server\Debug\UDP_Server.pdb
+E:\Projects\Projects\UDP_Notwork\UDP_Server\Debug\UDP_Server.exe
+E:\Projects\Projects\UDP_Notwork\UDP_Server\Debug\UDP_Server.pdb
